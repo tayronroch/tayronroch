@@ -1,8 +1,7 @@
 ### Hi there, my name is Tayron👋
-- 🔭 I am currently working as a freelance Front-End Developer. /  Atualmente trabalho como desenvolvedor front-end freelancer.
-- 🌱 I'm currently learning JavaScript and TypeScript. / Atualmente estou aprendendo JavaScript e TypeScript.
-- 🤔 I am currently looking for an Internship in the Technology area. / Atualmente estou em busca de um Estágio na área de Tecnologia.
-##
+- 🔭 I am currently working as a freelance Front-End Developer. 
+- 🌱 I'm currently learning JavaScript and TypeScript.
+- 🤔 I am currently looking for an Internship in the Technology area.
 <div align="center">
   <a href="https://github.com/tayronroch">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tayronroch&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
