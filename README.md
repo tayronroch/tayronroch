@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning JavaScript and TypeScript. / Atualmente estou aprendendo JavaScript e TypeScript.
 - 🤔 I am currently looking for an Internship in the Technology area. / Atualmente estou em busca de um Estágio na área de Tecnologia.
 ##
-<div align="center">
+<div align="justify">
   <a href="https://github.com/tayronroch">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tayronroch&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayronroch&layout=compact&langs_count=7&theme=dark"/>
