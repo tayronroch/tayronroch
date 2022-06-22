@@ -1,6 +1,6 @@
 ### Hi there, my name is Tayron👋
-🔭 I am currently working as a freelance Front-End Developer. 
-🌱 I'm currently learning JavaScript and TypeScript.
+-🔭 I am currently working as a freelance Front-End Developer. 
+-🌱 I'm currently learning JavaScript and TypeScript.
 
 <div align="center">
   <a href="https://github.com/tayronroch">
